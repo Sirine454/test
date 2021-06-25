@@ -1,0 +1,3 @@
+
+export const FILTER_BY_NAME = "FILTER_BY_NAME";
+export const SEARCH_BY_FLETTER = "SEARCH_BY_FLETTER";
